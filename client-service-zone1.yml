@@ -1,3 +1,5 @@
+spring:
+  profiles: zone1
 eureka:
   instance:
     metadataMap:
