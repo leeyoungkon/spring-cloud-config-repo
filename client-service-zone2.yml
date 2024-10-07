@@ -11,3 +11,5 @@ server:
   port: ${PORT:8082}
 my:
   address: 안산
+myName: 손흥민
+
