@@ -9,3 +9,5 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 server:  
   port: ${PORT:8082}
+my:
+  address: 안산
